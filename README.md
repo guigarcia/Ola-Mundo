@@ -1,5 +1,5 @@
 # Olá, Mundo!
-:br:
+:brazil: 
 Meu Primeiro Repositório Público :octocat:
 
 Bem-vindo ao meu repositório "Olá, Mundo!"
@@ -12,7 +12,10 @@ Esse **GitHub** é para compartilhar estudos e projetos com a comunidade e contr
 
 Meu LinkedIn: [**www.linkedin.com/in/guigarcia**](https://www.linkedin.com/in/guigarcia/).
 
-:us:
+```
+```
+
+:us: 
 My First Public Repository :octocat:
 
 Welcome to my repository "Hello World!"

@@ -1,5 +1,6 @@
 # Olá, Mundo!
 :brazil: 
+
 Meu Primeiro Repositório Público :octocat:
 
 Bem-vindo ao meu repositório "Olá, Mundo!"
@@ -16,6 +17,7 @@ Meu LinkedIn: [**www.linkedin.com/in/guigarcia**](https://www.linkedin.com/in/gu
 ```
 
 :us: 
+
 My First Public Repository :octocat:
 
 Welcome to my repository "Hello World!"
